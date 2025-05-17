@@ -1,4 +1,4 @@
-<h1>capitulo2</h1>
+<h1>CAPITULO 2</h1>
 <h2>o comercio online e o crescimento</h2>
 
 O <b>comercio online</b> tem crescido tanto para grandes lojas de varejo quanto para pequenos artesãos e comerciantes. <b>Business-to-bussiness</b> e <b> serviços financeiros</b> na internet afetam as cadeias de abastecimento pro meio de indústrias inteira. A essa agregação de funcionalidades  por meio dum núcleo comum (internet,no caso), tem-se usado chamar convergencia tecnológica ou, simplesmente, quando não for ámbiguo, <b>convergência </b>
