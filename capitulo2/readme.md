@@ -9,7 +9,7 @@ A internet não tem governancia centralizada em qualquer aplicação tecnológic
 
 <h2>Terminogia</h2>
 
-[Aqui entra a imagem]
+   <img src="imagem/Captura de tela_17-5-2025_132525_" alt="">
 
 <h2> O termo internet</h2>
 
