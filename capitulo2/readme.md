@@ -19,8 +19,6 @@ O termo internet, como um sistema global especifico de redes de IPs interconecta
 
 Os termos internet e world wide web são frequentemente usados como sinônimos na linguagem corrente, é comum falar-se "navegar na internet", em referencia ao <b>navegador web</b> para exibir <b>paginas web</b>. No entanto, a internet é uma rede mundial de computadores especiais conectando milhões de dispositivos de computação, enquanto a Word Wide Web é apenas um dos muitos serviços que funcionam dentro da internet. A Web é uma coleção de documentos interligados (páginas web) e outros recursos da internet, ligadas por <b>hiperlinks</b> e <b>URLs</b>. Além  da  web, muitos outros serviços são implementados através da internet, como <b> emails</b>,transferência de arquivos, controle remoto de computador, grupos de noticias e jogos online. Todos esses serviços podem ser implementados em qualquer <b>intranet</b>, acessivel para os usuarios da rede.
 
-<hgroup>
 <h1>obrigado por ler esse documentario</h1>
 <h2>o capitulo 3 ja esta disponivel</h2>
 <h3>feito por euler.dev</h3>
-</hgroup>
