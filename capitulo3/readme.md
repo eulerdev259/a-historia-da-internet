@@ -11,3 +11,7 @@ Aplicadas da <b>UCLA</b> e o sistema NLS de <b>Dlougas Engelbart</b> no <b>SRI I
 <h2>RFC 675</h2>
 
 Em dezembro de 1974, o <b>RFC 675</b> -Specification Control Program, de Vinton Cerf, Yogen Dalal e Carl Sunshipe usou o termo internet como uma abreviação para <b>intemetworking</b> e <b>RFCs</b> posteriores repetiram esse termo. O acesso á ARPANET foi ampliado.
+
+<h1>obrigado por ler esse documentario</h1>
+<h2>o capitulo 4 em breve</h2>
+<h3>feito por euler.dev</h3>
