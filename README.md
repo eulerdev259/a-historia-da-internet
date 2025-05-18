@@ -14,4 +14,4 @@ as origens da internet remotam a uma pesquisa encomendada pelo governo dos <b>Es
 
 A maioria das comunicações tradicionais dos meios de comunicação (ou <b>midia</b>), como <b>telefone</b>, <b>musica</b>, <b>cinema</b>, e <b>televisão</b> estão a ser remodeladas ou redefinidas pela internet, dando origem a novos serviços, como o protocolo de internet de voz (<b>VoIP</b>) e o protocolo de internet de televisão (<b>IPTV</b>). Jornaiss, livros e outras publicações impressas estão-se adaptando à tecnologia web ou têm sido reformulados para <b>blogs</b> e <b>feeds</b>. A Internet permitiu e acelerou a criação de novas formas de interações humanas através de <b>mensagens instantaneas</b>, <b>foruns de discussão</b>
 
-<h1> e por aqui eu termino o capitulo 1, muito obrigado (capitulo 2 em breve)
+<h1> e por aqui eu termino o capitulo 1, muito obrigado (capitulo 2 ja disponivel)
