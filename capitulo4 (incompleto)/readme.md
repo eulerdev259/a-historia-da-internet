@@ -4,7 +4,7 @@
 
 em 1981, quando a <b>Fundação Nacional da Ciencia</b> (NSF), desenvolvido a Computer Science Network (CSNET). Em 1982, o Internet Protocol Suite (<b>TCP/IP</b>) foi padronizada e o conceito de uma rede mundial de redes TVP/IP totalmente interligadas chamado de internet foi introduzido.
 
-<img src="imagem1cap4.jpeg">
+
 
 <h2>o acesso da rede TCP/IP</h2>
 
