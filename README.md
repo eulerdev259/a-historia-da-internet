@@ -1,6 +1,6 @@
 <h1>CAPITULO 1</H1>
 <h2>a historia da internet</h2>
-**olá, eu sou o euler e eu vim te explicar como a internet foi criada e mais alguns detalhes**
+**olá, eu sou o Euler e eu vim te explicar como a internet foi criada e mais alguns detalhes**
 
 ***o que é a internet?***
 
